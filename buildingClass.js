@@ -1,0 +1,20 @@
+class Building{
+
+constructor(){
+
+
+
+
+}
+display(){
+
+
+
+
+
+
+
+
+}
+
+}
